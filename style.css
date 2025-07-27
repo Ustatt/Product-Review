@@ -4,6 +4,7 @@ body {
     align-items: center;
     background-color: hsl(30, 38%, 92%);
     min-height: 100vh;
+    font-family: 'Montserrat', 'Young-serif';
 }
 
 .content {
@@ -33,7 +34,7 @@ body {
 h4,
 p {
     color: hsl(228, 12%, 48%);
-    font-family: 'Monsterrat', sans-serif;
+
     font-weight: 700;
 }
 
